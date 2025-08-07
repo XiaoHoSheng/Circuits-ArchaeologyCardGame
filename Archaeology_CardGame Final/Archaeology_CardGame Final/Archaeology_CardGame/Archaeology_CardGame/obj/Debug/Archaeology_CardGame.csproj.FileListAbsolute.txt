@@ -1,0 +1,11 @@
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.csproj.AssemblyReference.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\bin\Debug\Archaeology_CardGame.exe.config
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\bin\Debug\Archaeology_CardGame.exe
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\bin\Debug\Archaeology_CardGame.pdb
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.Form1.resources
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.Properties.Resources.resources
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.csproj.GenerateResource.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.csproj.CoreCompileInputs.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.exe
+C:\Users\jeson\Desktop\2022B\COMPX102\ASSIGNMENT 2\Final\Archaeology_CardGame Final1\Archaeology_CardGame\Archaeology_CardGame\obj\Debug\Archaeology_CardGame.pdb

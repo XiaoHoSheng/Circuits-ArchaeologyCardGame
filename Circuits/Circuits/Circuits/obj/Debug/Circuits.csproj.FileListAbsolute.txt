@@ -1,0 +1,55 @@
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.pdb
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.exe
+D:\School\PAD\102\Assignment One\Circuits\Circuits\obj\Debug\Circuits.pdb
+D:\School\PAD\102\Assignment One\Circuits\Circuits\bin\Debug\Circuits.exe.config
+D:\School\PAD\102\Assignment One\Circuits\Circuits\bin\Debug\Circuits.exe
+D:\School\PAD\102\Assignment One\Circuits\Circuits\bin\Debug\Circuits.pdb
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\bin\Debug\Circuits.exe
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\bin\Debug\Circuits.pdb
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.exe
+C:\Users\jeson\Desktop\2022B\COMPX102\Assignment（1）\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.pdb
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\bin\Debug\Circuits.exe.config
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\bin\Debug\Circuits.exe
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\bin\Debug\Circuits.pdb
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.exe
+D:\School\PAD\102\Assignment One\Partner\Assignmentú¿1ú¬\Circuits (2)\Circuits\Circuits\obj\Debug\Circuits.pdb
